@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,5 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
