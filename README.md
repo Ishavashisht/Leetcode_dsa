@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
