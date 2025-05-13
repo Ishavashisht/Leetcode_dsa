@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Union Find
 |  |
 | ------- |
