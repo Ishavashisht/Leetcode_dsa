@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
@@ -185,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
