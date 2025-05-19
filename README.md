@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
