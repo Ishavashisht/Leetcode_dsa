@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1293-three-consecutive-odds) |
+| [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1656-count-good-triplets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
+| [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2262-solving-questions-with-brainpower) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1500-count-largest-group) |
+| [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
