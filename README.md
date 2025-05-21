@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
