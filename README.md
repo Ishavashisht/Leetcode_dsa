@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1293-three-consecutive-odds) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1656-count-good-triplets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
