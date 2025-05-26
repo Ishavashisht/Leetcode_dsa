@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
