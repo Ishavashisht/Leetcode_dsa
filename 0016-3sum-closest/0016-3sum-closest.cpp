@@ -4,7 +4,7 @@ public:
         sort(nums.begin(),nums.end());
       
         int closestSum=nums[0]+nums[1]+nums[2];
-       for(int i=0;i<nums.size()-2;i++){
+       for(int i=0;i<nums.size();i++){
             int j=i+1,k=nums.size()-1;
            
             while(j<k){
