@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Stack
 |  |
