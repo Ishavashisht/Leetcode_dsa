@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
+| [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 ## Ordered Set
 |  |
