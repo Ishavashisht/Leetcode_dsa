@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1242-matrix-block-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1293-three-consecutive-odds) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Stack
 |  |
