@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [1040-maximum-binary-tree-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1040-maximum-binary-tree-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [1040-maximum-binary-tree-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1040-maximum-binary-tree-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
