@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0390-elimination-game](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0390-elimination-game) |
 | [2050-count-good-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 ## Number Theory
@@ -527,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
