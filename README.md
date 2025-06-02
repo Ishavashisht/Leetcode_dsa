@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
