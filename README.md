@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
+| [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0945-snakes-and-ladders](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
