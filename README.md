@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
+| [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0945-snakes-and-ladders](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1242-matrix-block-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
