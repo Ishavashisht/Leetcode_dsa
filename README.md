@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -609,4 +611,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
