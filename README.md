@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3194-find-words-containing-character) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3647-zero-array-transformation-iii) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
