@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
