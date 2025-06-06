@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1196-filling-bookcase-shelves) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2061-painting-a-grid-with-three-different-colors) |
