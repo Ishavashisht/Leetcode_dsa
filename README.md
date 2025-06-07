@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [1040-maximum-binary-tree-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1040-maximum-binary-tree-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -639,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 ## Memoization
 |  |
 | ------- |
