@@ -409,10 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
