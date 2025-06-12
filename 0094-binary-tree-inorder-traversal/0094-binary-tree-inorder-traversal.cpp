@@ -11,22 +11,32 @@
  */
 class Solution {
 public:
+//morries traversal
     vector<int> inorderTraversal(TreeNode* root) {
-        //iterative approach
         vector<int>ans;
-        stack<TreeNode*>st;
+        
         TreeNode*curr=root;
-        while(curr||!st.empty()){
-            while(curr){
-                st.push(curr);
+        while(curr){
+            if(!curr->left){
+              ans.push_back(curr->val);
+                curr=curr->right;
+            }
+            else{
+            TreeNode*pre=curr->left;
+            while(pre->right && pre->right!=curr){
+           pre=pre->right;
+            }
+            if(!pre->right){
+                pre->right=curr;
                 curr=curr->left;
             }
-            curr=st.top();
-            st.pop();
-            ans.push_back(curr->val);
-            curr=curr->right;
+            else{
+                pre->right=NULL;
+                ans.push_back(curr->val);
+                curr=curr->right;
+            }
         }
-return ans;
     }
-    
+    return ans;
+    }
 };
