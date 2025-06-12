@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
