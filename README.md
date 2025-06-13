@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
