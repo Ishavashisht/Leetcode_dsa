@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -581,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1242-matrix-block-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
@@ -716,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
