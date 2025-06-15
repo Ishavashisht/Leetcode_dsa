@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
 | [1500-count-largest-group](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
