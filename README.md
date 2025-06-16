@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
+| [0933-increasing-order-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
+| [0933-increasing-order-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1040-maximum-binary-tree-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0832-binary-tree-pruning) |
+| [0933-increasing-order-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1040-maximum-binary-tree-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
+| [0933-increasing-order-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-increasing-order-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0933-increasing-order-search-tree) |
 ## Memoization
 |  |
 | ------- |
