@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
-//using inorder to get the sort array
-    int count=0;
-    int res=-1;
-    void inorder(TreeNode*root,int k){
-        if(!root)return;
-        inorder(root->left,k);
+int count=0;
+int res=-1;
+    void solve(TreeNode*root,int k){
+        if(!root) return;
+        if(root->left)solve(root->left,k);
         count++;
         if(count==k){
             res=root->val;
             return;
         }
-        inorder(root->right,k);
+        solve(root->right,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-      
-       inorder(root,k); 
-         return res;
+      solve(root,k);
+      return res;  
     }
 };
