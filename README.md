@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2998-count-symmetric-integers) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
 ## Combinatorics
 |  |
 | ------- |
