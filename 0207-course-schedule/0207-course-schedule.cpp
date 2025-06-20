@@ -1,44 +1,32 @@
 class Solution {
 public:
-    bool topologicalSort(unordered_map<int,vector<int>>&adj,int &numCourses,vector<int>&indegree){
-queue<int>q;
-int count=0;
-for(int i=0;i<numCourses;i++){
-    if(indegree[i]==0){
-        q.push(i);
-    
-    }
-}
+    bool dfs(unordered_map<int,vector<int>>&adj,int u,vector<bool>&visited, vector<bool>&inRecursion){
+        visited[u]=true;
+        inRecursion[u]=true;
+        for(int&v:adj[u]){
+            if(!visited[v]&& dfs(adj,v,visited,inRecursion))return true;
+            else if(inRecursion[v]==true)return true;
 
-while(!q.empty()){
-    int u=q.front();
-    q.pop();
-      count++;
-    for(int&v:adj[u]){
-        indegree[v]--;
-        if(indegree[v]==0){
-            
-q.push(v);
         }
-      
-
-    }
-    if(count==numCourses)return true;//cycle not detected so able to complete it
-    
-}
-return  false;
+        inRecursion[u]=false;
+        return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int n=prerequisites.size();
+        
+        unordered_map<int,vector<int>>adj;
+        for(vector<int>&vec:prerequisites){
+            int u=vec[0];
+            int v=vec[1];
+            //v->u
+adj[v].push_back(u);
 
-     unordered_map<int,vector<int>>adj;
-     vector<int>indegree(numCourses,0);
-     for(vector<int>vec: prerequisites){
-        int u=vec[0];
-        int v=vec[1];
-        adj[u].push_back(v);
-        indegree[v]++;
-     }
-return topologicalSort(adj,numCourses,indegree);
+        }
+        vector<bool>visited(numCourses,false);
+        vector<bool>inRecursion(numCourses,false);
+        for(int i=0;i<numCourses;i++){
+            if(!visited[i]&& dfs(adj,i,visited,inRecursion))return false;
+
+        }
+        return true;
     }
 };
