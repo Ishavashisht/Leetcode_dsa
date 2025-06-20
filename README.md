@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [0936-rle-iterator](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0867-new-21-game) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
 | [1500-count-largest-group](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1249-snapshot-array) |
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2161-stock-price-fluctuation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2161-stock-price-fluctuation) |
 ## Interactive
 |  |
@@ -909,4 +914,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0936-rle-iterator](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0936-rle-iterator) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
