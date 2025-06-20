@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0621-task-scheduler) |
+| [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0552-student-attendance-record-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0815-champagne-tower](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0815-champagne-tower) |
