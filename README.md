@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Array
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3809-properties-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3809-properties-graph) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Quickselect
 |  |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
 | ------- |
