@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0945-snakes-and-ladders](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0945-snakes-and-ladders) |
 | [1242-matrix-block-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1242-matrix-block-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
