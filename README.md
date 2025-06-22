@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0621-task-scheduler) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0733-flood-fill) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0552-student-attendance-record-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
