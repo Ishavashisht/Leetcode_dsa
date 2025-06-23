@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
+| [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
+| [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
