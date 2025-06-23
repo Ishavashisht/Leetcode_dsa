@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3194-find-words-containing-character) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -973,10 +976,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1014,4 +1019,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2201-valid-arrangement-of-pairs) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
