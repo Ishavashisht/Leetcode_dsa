@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
