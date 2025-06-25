@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
