@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0260-single-number-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0747-min-cost-climbing-stairs) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2279-maximum-split-of-positive-even-integers) |
@@ -978,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1039,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Iterator
 |  |
