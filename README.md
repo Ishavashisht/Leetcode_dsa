@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0390-elimination-game) |
 | [0598-range-addition-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
+| [0755-reach-a-number](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0867-new-21-game) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0755-reach-a-number](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
