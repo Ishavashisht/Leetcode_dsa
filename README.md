@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1675-magnetic-force-between-two-balls) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1488-sort-integers-by-the-power-value) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1675-magnetic-force-between-two-balls) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
