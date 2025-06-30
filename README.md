@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1675-magnetic-force-between-two-balls) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0794-swim-in-rising-water) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1120-flower-planting-with-no-adjacent](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1085,4 +1088,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
