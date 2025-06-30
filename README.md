@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
@@ -886,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
