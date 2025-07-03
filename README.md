@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2206-detonate-the-maximum-bombs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2439-longest-cycle-in-a-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
