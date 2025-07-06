@@ -1,24 +1,17 @@
 class Solution {
 public:
- void solve(int curr,int n,vector<int>&result){
-    if(curr>n){
-        return ;
-    }
-    result.push_back(curr);
-    for(int append=0;append<=9;append++){
-        int newNum=curr*10+append;
-        if(newNum>n)
-            return;
-
-            solve(newNum,n,result);
-        
-    }
- }
+   void dfs(int curr,int n,vector<int>&res){
+    if(curr>n)return;
+    res.push_back(curr);
+    for(int i=0;i<=9;i++){
+    if(curr*10+i>n)break;
+    dfs(curr*10+i,n,res);
+   }}
     vector<int> lexicalOrder(int n) {
-        vector<int>result;
-        for(int startNum=1;startNum<=9;startNum++){
-           solve(startNum,n,result); 
+        vector<int>res;
+        for(int i=1;i<=9;i++){
+            dfs(i,n,res);
         }
-        return result;
+        return res;
     }
 };
