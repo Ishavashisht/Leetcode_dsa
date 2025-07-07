@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0087-scramble-string) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0283-move-zeroes) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Merge Sort
 |  |
