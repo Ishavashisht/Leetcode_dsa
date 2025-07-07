@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0219-contains-duplicate-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
