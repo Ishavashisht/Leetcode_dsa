@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
+| [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0907-koko-eating-bananas) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [1249-snapshot-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1249-snapshot-array) |
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1111,11 +1114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+| [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
+| [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Indexed Tree
 |  |
@@ -1172,4 +1177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
