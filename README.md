@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0087-scramble-string) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0367-valid-perfect-square](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0054-spiral-matrix) |
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
