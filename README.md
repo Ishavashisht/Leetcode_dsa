@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
+| [1250-longest-common-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1196-filling-bookcase-shelves) |
+| [1250-longest-common-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1250-longest-common-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1488-sort-integers-by-the-power-value) |
