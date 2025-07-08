@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1488-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1675-magnetic-force-between-two-balls) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2161-stock-price-fluctuation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2161-stock-price-fluctuation) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
