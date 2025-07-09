@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0091-decode-ways) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
