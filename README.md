@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1962-single-threaded-cpu](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1962-single-threaded-cpu) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
