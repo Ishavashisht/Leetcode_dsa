@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1014-k-closest-points-to-origin](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1307-ugly-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1307-ugly-number-iii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1161,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Rolling Hash
 |  |
 | ------- |
