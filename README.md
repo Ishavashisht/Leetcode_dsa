@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2161-stock-price-fluctuation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1185,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Indexed Tree
 |  |
