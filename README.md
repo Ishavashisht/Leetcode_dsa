@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0242-valid-anagram) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0295-find-median-from-data-stream) |
