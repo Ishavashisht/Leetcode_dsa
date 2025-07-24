@@ -1,47 +1,28 @@
-
-#include<iostream>
-using namespace std;
-
 class Solution {
 public:
-    vector<vector<int>> matrixBlockSum(vector<vector<int>>& mat, int K) {
-        vector<vector<int>> prefix_sum = prefixSum(mat);
-        vector<vector<int>> answer = prefix_sum;
+    vector<vector<int>> matrixBlockSum(vector<vector<int>>& mat, int k) {
         
-        for (int i = 0; i < mat.size(); i++) {
-            for (int j = 0; j < mat[0].size(); j++) {
-                int upper_i = ((i+K) >= mat.size()) ? (mat.size()-1) : (i+K);
-                int upper_j = ((j+K) >= mat[0].size()) ? (mat[0].size()-1) : (j+K);
-                
-                int lower_i = ((i-K) <= 0 ) ? 0 : (i-K);
-                int lower_j = ((j-K) <= 0 ) ? 0 : (j-K);
-            
-                
-                answer[i][j] = prefix_sum[upper_i][upper_j] - ((lower_i == 0) ? 0 : prefix_sum[lower_i-1][upper_j]) - ((lower_j == 0) ? 0 : prefix_sum[upper_i][lower_j-1]) + ((lower_i == 0) || (lower_j == 0)  ? 0 : prefix_sum[lower_i-1][lower_j-1]);
+        int m=mat.size();
+        int n=mat[0].size();
+        vector<vector<int>>prefix(m+1,vector<int>(n+1,0));
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+        prefix[i+1][j+1]=mat[i][j]+prefix[i][j+1]+prefix[i+1][j]-prefix[i][j];
             }
-        }
-    
-        
-        return answer;
-        
-    }
-    
-    vector<vector<int>> prefixSum(vector<vector<int>>& mat) {
-        vector<vector<int>> prefix_sum = mat;
-        
-        for (int i = 0; i < mat.size(); i++) {
-            int sum = 0;
-            for (int j = 0; j < mat[0].size(); j++) {
-                sum = sum + mat[i][j];
-                if (i > 0) {
-                    prefix_sum[i][j] = sum + prefix_sum[i-1][j];
-                } else {
-                    prefix_sum[i][j] = sum;   
-                }
-            }
-        }
-        
-        return prefix_sum;
-    }
 
+        }
+        vector<vector<int>>ans(m,vector<int>(n,0));
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+               int r1 = max(0, i-k);
+               int r2 = min(m-1, i+k); 
+               int c1 = max(0, j-k);
+               int c2 = min(n-1, j+k);
+
+                 r1++; c1++; r2++; c2++;
+                ans[i][j]=prefix[r2][c2]-prefix[r1-1][c2]-prefix[r2][c1-1]+prefix[r1-1][c1-1];
+            }
+        }
+        return ans;
+    }
 };
