@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3809-properties-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3809-properties-graph) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
 |  |
 | ------- |
@@ -1233,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0406-queue-reconstruction-by-height) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Probability and Statistics
 |  |
 | ------- |
