@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
 | [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [1250-longest-common-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1250-longest-common-subsequence) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0833-bus-routes) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0770-couples-holding-hands](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0770-couples-holding-hands) |
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
