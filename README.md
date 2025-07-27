@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1081-video-stitching](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1081-video-stitching) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [1196-filling-bookcase-shelves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1196-filling-bookcase-shelves) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1081-video-stitching](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0930-all-possible-full-binary-trees) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1025-minimum-cost-for-tickets) |
+| [1081-video-stitching](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1081-video-stitching) |
 | [1196-filling-bookcase-shelves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1250-longest-common-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1367-maximum-height-by-stacking-cuboids) |
