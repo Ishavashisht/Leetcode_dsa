@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3809-properties-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3809-properties-graph) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
@@ -1167,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2161-stock-price-fluctuation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2161-stock-price-fluctuation) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -1279,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
