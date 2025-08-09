@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0260-single-number-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0930-all-possible-full-binary-trees) |
