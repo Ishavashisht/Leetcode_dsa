@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0038-count-and-say) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0053-maximum-subarray) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0231-power-of-two) |
