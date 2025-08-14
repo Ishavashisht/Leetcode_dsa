@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0289-game-of-life) |
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2048-build-array-from-permutation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2048-build-array-from-permutation) |
