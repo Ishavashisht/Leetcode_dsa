@@ -1322,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Rolling Hash
 |  |
