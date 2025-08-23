@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Tree
@@ -1143,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
