@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0283-move-zeroes) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
