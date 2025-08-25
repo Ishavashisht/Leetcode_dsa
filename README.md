@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0733-flood-fill) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2048-build-array-from-permutation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2048-build-array-from-permutation) |
