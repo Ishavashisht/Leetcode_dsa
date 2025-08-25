@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0833-bus-routes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0833-bus-routes) |
+| [0860-design-circular-queue](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0860-design-circular-queue](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0936-rle-iterator](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0936-rle-iterator) |
 | [1249-snapshot-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1249-snapshot-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1352,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0328-odd-even-linked-list) |
+| [0860-design-circular-queue](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Rolling Hash
 |  |
