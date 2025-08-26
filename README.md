@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0567-permutation-in-string) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [0936-rle-iterator](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0936-rle-iterator) |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Rolling Hash
@@ -1438,4 +1441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
