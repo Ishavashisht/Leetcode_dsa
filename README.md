@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0459-repeated-substring-pattern) |
+| [0556-next-greater-element-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0475-heaters) |
+| [0556-next-greater-element-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0647-palindromic-substrings) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0390-elimination-game) |
+| [0556-next-greater-element-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0556-next-greater-element-iii) |
 | [0598-range-addition-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0755-reach-a-number](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0755-reach-a-number) |
