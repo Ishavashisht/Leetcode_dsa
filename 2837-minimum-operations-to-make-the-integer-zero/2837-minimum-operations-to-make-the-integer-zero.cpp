@@ -1,16 +1,14 @@
 class Solution {
 public:
     int makeTheIntegerZero(int num1, int num2) {
-       int k = 1;
-        while (true) {
-            long long x = num1 - static_cast<long long>(num2) * k;
-            if (x < k) {
-                return -1;
-            }
-            if (k >= __builtin_popcountll(x)) {
-                return k;
-            }
-            k++;
-        }  
+      for(int k=1;k<60;k++){
+        long long rem=num1-1LL*k*num2;
+        if(rem<0)break;
+        int bits=__builtin_popcountll(rem);
+        if(bits<=k && k<=rem){
+            return k;
+        }
+      }
+        return -1;
     }
 };
