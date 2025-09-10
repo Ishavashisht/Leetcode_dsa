@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1813-maximum-erasure-value) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1917-maximum-average-pass-ratio) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
