@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0768-partition-labels) |
 | [0926-find-and-replace-pattern](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0926-find-and-replace-pattern) |
+| [1006-vowel-spellchecker](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
 | [1122-longest-duplicate-substring](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1122-longest-duplicate-substring) |
 | [1250-longest-common-subsequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0964-minimize-malware-spread-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0964-minimize-malware-spread-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
+| [1006-vowel-spellchecker](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0940-fruit-into-baskets) |
 | [0964-minimize-malware-spread-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0964-minimize-malware-spread-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
