@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
 | [3809-properties-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3809-properties-graph) |
+| [3827-implement-router](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0954-maximum-sum-circular-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3809-properties-graph](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3809-properties-graph) |
+| [3827-implement-router](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2161-stock-price-fluctuation) |
 | [2429-design-a-food-rating-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -1314,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -1400,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3827-implement-router) |
 ## Interactive
 |  |
 | ------- |
