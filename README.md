@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0368-largest-divisible-subset) |
