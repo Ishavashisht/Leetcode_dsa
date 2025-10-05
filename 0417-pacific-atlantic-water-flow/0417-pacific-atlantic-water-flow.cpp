@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& heights,int i,int j,vector<vector<bool>>&oceans){
+void dfs(vector<vector<int>>& heights,int i,int j,vector<vector<bool>>&oceans){
          int m = heights.size();
         int n = heights[0].size();
         if(i>=m||i<0 ||j>=n||j<0 ||oceans[i][j]){
@@ -26,7 +26,7 @@ public:
         int n=heights[0].size();
         vector<vector<bool>>pacific(m,vector<bool>(n,false));
         vector<vector<bool>>atlantic(m,vector<bool>(n,false));
-        //pacific top
+              //pacific top
         for(int i=0;i<n;i++){
             dfs(heights,0,i,pacific);
         }
