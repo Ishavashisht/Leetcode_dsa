@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1419,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/1184-car-pooling) |
 | [2048-build-array-from-permutation](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Ishavashisht/Leetcode_dsa/tree/master/3336-water-bottles-ii) |
